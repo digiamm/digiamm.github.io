@@ -2,14 +2,14 @@
 title: "Visual place recognition using LiDAR intensity information"
 collection: publications
 permalink: /publication/2021-visual-place-recognition
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: ''
 date: 2021-9-27
 venue: 'International Conference on Intelligent Robots and Systems (IROS)'
 authors: '<b>Luca Di Giammarino</b>, Irvin Aloise, Cyrill Stachniss, Giorgio Grisetti'
 teaser: /pub/di2021visual.png
 arxiv: 'https://arxiv.org/abs/2103.09605'
-# code: https://github.com/tum-vision/intrinsic-neural-fields
-categories: [VPR]
+# code: ''
+categories: [visual-place-recognition]
 bibtex: true
 ---
 
