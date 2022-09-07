@@ -27,11 +27,11 @@ bibtex: true
 {% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
 
 ## Bibtex 
-@inproceedings{di2021visual,
-  title={Visual place recognition using LiDAR intensity information},
-  author={Di Giammarino, Luca and Aloise, Irvin and Stachniss, Cyrill and Grisetti, Giorgio},
-  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={4382--4389},
-  year={2021},
-  organization={IEEE}
-}
+    @inproceedings{di2021visual,
+    title={Visual place recognition using LiDAR intensity information},
+    author={Di Giammarino, Luca and Aloise, Irvin and Stachniss, Cyrill and Grisetti, Giorgio},
+    booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    pages={4382--4389},
+    year={2021},
+    organization={IEEE}
+    }
