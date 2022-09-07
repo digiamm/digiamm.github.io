@@ -12,4 +12,10 @@ I am currently a PhD student of [Prof. Giorgio Grisetti](https://sites.google.co
 
 News
 ======
-- 30.06.2022: Our paper ‘MD-SLAM: Multi-cue Direct SLAM’ was accepted at IROS 2022!
+  <ul>{% for post in site.news reversed %}
+    {% include archive-news.html %}
+  {% endfor %}</ul>
+
+<!-- News
+======
+- 30.06.2022: Our paper ‘MD-SLAM: Multi-cue Direct SLAM’ was accepted at IROS 2022! -->
