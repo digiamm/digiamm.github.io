@@ -83,8 +83,8 @@ author:
   name             : "Luca Di Giammarino"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Rome, Italy"
-  employer         : "Sapienza University"
+  location         : 
+  employer         : "Sapienza University, Rome, Italy"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cZeizisAAAAJ&hl=it&oi=sra"
   email            :
