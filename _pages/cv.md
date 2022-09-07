@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,99 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a densified pdf version of my CV [here (updated Aug 22)](https://zorah.github.io/files/ZorahLaehner_CV_website_0822.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D (Dr. rer. nat.)** (summa cum laude) in Computer Science
+  * Technical University of Munich, 2021
+* **M.Sc.** (with distinction) in Computer Science
+  * Technical University of Munich, 2015
+* **B.Sc.** in Computer Science
+  * University of Bonn, 2013
 
-Work experience
+Academic Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2021: **Postdoctoral Researcher**
+  * Computer Vision Group, University of Siegen
+  * Supervisor: Prof. Dr. Michael Moeller
+* 2015-2021: **Researcher/PhD Candidate**
+  * Computer Vision and Artificial Intelligence Group, Technical University of Munich
+  * Supervisor: Prof. Dr. Daniel Cremers
+* 2019: **Research Intern**
+  * Toshiba Research Europe, Cambridge
+  * Supervisor: Dr. Roberto Mecca
+* 2019: **Visiting Researcher** with a DAAD Short-Term Scholarship for PhD students
+  * Geometry, Learning and Applied AI Group, Sapienza Università di Roma
+  * Supervisor: Prof. Dr. Emanuele Rodolà
+* 2017-2018: **Research Intern**
+  * Facebook Reality Labs, Sausalito
+  * Supervisor: Dr. Tony Tung
+* 2017: **Visiting Researcher**
+  * VISTA Lab, Technion - Israel Institute of Technology
+  * Supervisor: Prof. Dr. Alex Bronstein
+* 2015: **Student Researcher**
+  * Computer Vision Group, Technical University of Munich
+  * Supervisor: Prof. Dr. Emanuele Rodolà
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2022-2024: **KI-Starter grant** from the ministry for culture and science in NRW for the two year project "Robust Geometric Deep Learning" (170k Euro)
+* 2019: **DAAD Short-Term Scholarship for PhD students** funding a two months research visit at Sapienza Università di Roma (3k Euro)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Committees
+======
+
+* [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
+* [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
+
+Reviewing
+======
+
+Outstanding Reviewer Award 3DV 2021
+
+**Conferences**
+
+* CVPR 2016-2020, 2022
+* 3DV 2016-2022
+* BMVC 2016-2018
+* NeurIPS 2019-2020
+* ICCV 2019-2021
+* ECCV 2020-2022
+* SIGGRAPH 2020-2021
+* WACV 2021
+* ICLR 2022
+* STAG 2021
+
+**Workshops**
+
+* MVR3D 2017 (WS@ICCV)
+* GMDL 2017-2018 (WS@ICCV/ECCV)
+* 3DRWi 2018 (WS@ECCV)
+
+**Journals**
+
+* IJCV (International Journal of Computer Vision)
+* JVCI (Journal of Visual Communication and Image Representation)
+* JMIV (Journal of Mathematical Imaging and Vision)
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
