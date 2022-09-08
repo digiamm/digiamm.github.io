@@ -9,7 +9,7 @@ authors: '<b>Luca Di Giammarino</b>, Irvin Aloise, Cyrill Stachniss, Giorgio Gri
 teaser: /pub/di2021visual.png
 arxiv: 'https://arxiv.org/abs/2103.09605'
 # code: ''
-categories: [visual-place-recognition]
+categories: [vpr]
 bibtex: true
 ---
 
