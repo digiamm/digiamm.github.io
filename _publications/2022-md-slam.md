@@ -6,7 +6,7 @@ permalink: /publication/2022-md-slam
 date: 2022-10-23
 venue: 'International Conference on Intelligent Robots and Systems (IROS)'
 authors: '<b>Luca Di Giammarino</b>, Leonardo Brizi, Tiziano Guadagnino, Cyrill Stachniss, Giorgio Grisetti'
-teaser: /pub/di2022md.png
+teaser: /pub/di2022md.gif
 arxiv: 'https://arxiv.org/abs/2203.13237'
 # code: ''
 categories: [slam]
