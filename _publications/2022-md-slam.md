@@ -8,6 +8,7 @@ venue: 'International Conference on Intelligent Robots and Systems (IROS) (just 
 authors: '<b>Luca Di Giammarino</b>, Leonardo Brizi, Tiziano Guadagnino, Cyrill Stachniss, Giorgio Grisetti'
 teaser: /pub/di2022md.gif
 arxiv: 'https://arxiv.org/abs/2203.13237'
+github: 'https://github.com/digiamm/md_slam'
 # code: ''
 categories: [slam]
 bibtex: true
