@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2023-low-scan
 # excerpt: ''
 date: 2023-03-13
+venue: 'arXiv'
 # venue: 'International Conference on Intelligent Robots and Systems (IROS) (just accepted)'
 authors: 'Omar Salem, Emanuele Giacomini, Leonardo Brizi, <b>Luca Di Giammarino</b>, Giorgio Grisetti'
 teaser: /pub/salem2023deskewing.png
