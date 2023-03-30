@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-visual-place-recognition
 # excerpt: ''
 date: 2021-9-27
-venue: 'International Conference on Intelligent Robots and Systems (IROS)'
+venue: 'IEEE International Conference on Intelligent Robots and Systems (IROS)'
 authors: '<b>Luca Di Giammarino</b>, Irvin Aloise, Cyrill Stachniss, Giorgio Grisetti'
 teaser: /pub/di2021visual.png
 arxiv: 'https://arxiv.org/abs/2103.09605'

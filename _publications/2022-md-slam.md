@@ -4,9 +4,10 @@ collection: publications
 permalink: /publication/2022-md-slam
 # excerpt: ''
 date: 2022-10-23
-venue: 'International Conference on Intelligent Robots and Systems (IROS) (just accepted)'
+venue: 'IEEE International Conference on Intelligent Robots and Systems (IROS)'
 authors: '<b>Luca Di Giammarino</b>, Leonardo Brizi, Tiziano Guadagnino, Cyrill Stachniss, Giorgio Grisetti'
 teaser: /pub/di2022md.gif
+pdf: 'https://ieeexplore.ieee.org/document/9981147'
 arxiv: 'https://arxiv.org/abs/2203.13237'
 github: 'https://github.com/digiamm/md_slam'
 # code: ''
@@ -28,9 +29,11 @@ bibtex: true
 {% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
 
 ## Bibtex 
-    @article{di2022md,
+    @inproceedings{di2022md,
     title={MD-SLAM: Multi-cue Direct SLAM},
     author={Di Giammarino, Luca and Brizi, Leonardo and Guadagnino, Tiziano and Stachniss, Cyrill and Grisetti, Giorgio},
-    journal={arXiv preprint arXiv:2203.13237},
-    year={2022}
+    booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    pages={11047--11054},
+    year={2022},
+    organization={IEEE}
     }
