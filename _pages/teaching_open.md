@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Open Student Projects"
 permalink: /open_projects/
@@ -73,4 +73,4 @@ All projects related to deep learning need to be implemented in PyTorch.
 
 *Most related paper:* [KinectFusion: Real-Time Dense Surface Mapping and Tracking, Newcombe et al, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf) (more recent papers should be surveyed)
 
-*Requirements:* Python or C++
+*Requirements:* Python or C++ -->
