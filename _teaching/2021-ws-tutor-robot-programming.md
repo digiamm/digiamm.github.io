@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture for Artificial Intelligence and Robotics master students"
 permalink: /teaching/2021-ws-tutor-robot-programming
 venue: "Sapienza University"
-date: 2021-30-09
+date: 2021-09-30
 location: "Rome, Italy"
 ---
 
