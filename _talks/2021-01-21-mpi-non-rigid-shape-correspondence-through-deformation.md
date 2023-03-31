@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Non-Rigid Shape Correspondence Through Deformation"
 collection: talks
 type: "Invited Talk"
@@ -7,4 +7,4 @@ venue: "Max Planck Institute for Informatics Tübingen"
 date: 2021-01-21
 location: "Virtual"
 ---
-Invited by Dr. Jinlong Yang
+Invited by Dr. Jinlong Yang -->

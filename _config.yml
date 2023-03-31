@@ -194,7 +194,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-categories: [correspondence, geometricDL, quantum, dataset]
+categories: [robotics, computer-vision, slam]
 
 # Defaults
 defaults:
