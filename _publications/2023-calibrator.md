@@ -30,7 +30,7 @@ bibtex: true
 
 ## Bibtex 
     @article{giacomini20232,
-      title={Ca $\^{} 2$ Lib: Simple and Accurate LiDAR-RGB Calibration using Small Common Markers},
+      title={Ca2Lib: Simple and Accurate LiDAR-RGB Calibration using Small Common Markers},
       author={Giacomini, Emanuele and Brizi, Leonardo and Di Giammarino, Luca and Salem, Omar and Perugini, Patrizio and Grisetti, Giorgio},
       journal={arXiv preprint arXiv:2309.07874},
       year={2023}
