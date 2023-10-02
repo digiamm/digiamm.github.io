@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a visiting PhD student at the CVG lab at ETH, which is headed by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/). In January 2020, I began my PhD at Sapienza, University of Rome, under the supervision of [Prof. Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti/home). I received my Computer Science Bachelor’s degree from the University of Salford, UK (in 2017) and my Artificial Intelligence and Robotics Master’s degree with distinction from Sapienza, University of Rome (in 2020). 
 
-I am currently a PhD student of [Prof. Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti/home) at Sapienza, University of Rome since January 2020. I received my Computer Science Bachelor’s degree from the University of Salford, UK (in 2017) and my Artificial Intelligence and Robotics Master’s degree with distinction from Sapienza, University of Rome (in 2020). 
 
 News
 ======
