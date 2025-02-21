@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2023-calibration
 # excerpt: ''
 date: 2023-09-14
-venue: 'arXiv'
+venue: 'Sensors'
 # venue: 'International Conference on Intelligent Robots and Systems (IROS) (just accepted)'
-authors: 'Emanuele Giacomini, Leonardo Brizi, <b>Luca Di Giammarino</b>, Omar Salem, Giorgio Grisetti'
+authors: 'Emanuele Giacomini*, Leonardo Brizi*, <b>Luca Di Giammarino</b>, Omar Salem, Giorgio Grisetti'
 teaser: /pub/giacomini2023calib.png
 arxiv: 'https://arxiv.org/pdf/2309.07874v1.pdf'
-github: 'https://github.com/srrg-sapienza/ca2lib'
+github: 'https://github.com/rvp-group/ca2lib'
 # code: ''
 categories: [calibration]
 bibtex: true
@@ -29,9 +29,13 @@ bibtex: true
 {% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
 
 ## Bibtex 
-    @article{giacomini20232,
-      title={Ca2Lib: Simple and Accurate LiDAR-RGB Calibration using Small Common Markers},
-      author={Giacomini, Emanuele and Brizi, Leonardo and Di Giammarino, Luca and Salem, Omar and Perugini, Patrizio and Grisetti, Giorgio},
-      journal={arXiv preprint arXiv:2309.07874},
-      year={2023}
-    }
+  @article{giacomini2024ca2lib,
+  title={Ca2lib: Simple and accurate lidar-rgb calibration using small common markers},
+  author={Giacomini, Emanuele and Brizi, Leonardo and Di Giammarino, Luca and Salem, Omar and Perugini, Patrizio and Grisetti, Giorgio},
+  journal={Sensors},
+  volume={24},
+  number={3},
+  pages={956},
+  year={2024},
+  publisher={MDPI}
+}

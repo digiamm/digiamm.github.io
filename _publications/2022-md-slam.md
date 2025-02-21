@@ -9,7 +9,7 @@ authors: '<b>Luca Di Giammarino</b>, Leonardo Brizi, Tiziano Guadagnino, Cyrill 
 teaser: /pub/di2022md.gif
 pdf: 'https://ieeexplore.ieee.org/document/9981147'
 arxiv: 'https://arxiv.org/abs/2203.13237'
-github: 'https://github.com/digiamm/md_slam'
+github: 'https://github.com/rvp-group/md_slam'
 # code: ''
 categories: [slam]
 bibtex: true
