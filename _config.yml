@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luca Di Giammarino"
   avatar           : "profile.png"
-  bio              : "This site is under construction!"
+  bio              : #"This site is under construction!"
   location         :
   employer         : "Sapienza University, Rome, Italy"
   pubmed           :
