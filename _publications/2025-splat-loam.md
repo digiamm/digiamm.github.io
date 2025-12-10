@@ -27,7 +27,6 @@ bibtex: true
 <a href="https://arxiv.org/abs/2503.17491">[arxiv]</a>  
 
 ## Bibtex
-```bibtex
 @inproceedings{giacomini2025splatloam,
   title={Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping},
   author={Giacomini, Emanuele and Di Giammarino, Luca and De Rebotti, Lorenzo and Grisetti, Giorgio and Oswald, Martin R.},

@@ -27,7 +27,6 @@ bibtex: true
 <a href="https://arxiv.org/abs/2501.03972">[arxiv]</a>
 
 ## Bibtex
-```bibtex
 @article{cwian2025madba,
   title={MAD-BA: 3D LiDAR Bundle Adjustment — from Uncertainty Modelling to Structure Optimization},
   author={Ćwian, Krzysztof and Di Giammarino, Luca and Ferrari, Simone and Ciarfuglia, Thomas and Grisetti, Giorgio and Skrzypczyński, Piotr},

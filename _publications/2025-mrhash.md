@@ -29,7 +29,6 @@ bibtex: true
 <a href="https://arxiv.org/abs/2511.21459">[arxiv]</a> <a href="https://dl.acm.org/doi/10.1145/3777909">[paper]</a> <a href="https://rvp-group.github.io/mrhash/">[project page]</a> <a href="https://github.com/rvp-group/mrhash">[code]</a>
 
 ## Bibtex
-```bibtex
 @article{10.1145/3777909,
   author = {De Rebotti, Lorenzo and Giacomini, Emanuele and Grisetti, Giorgio and Di Giammarino, Luca},
   title = {Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids},

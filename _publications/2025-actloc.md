@@ -27,7 +27,6 @@ bibtex: true
 <a href="https://arxiv.org/abs/2508.20981">[arxiv]</a>  
 
 ## Bibtex
-```bibtex
 @inproceedings{li2025actloc,
   title={ActLoc: Learning to Localize on the Move via Active Viewpoint Selection},
   author={Li, Jiajie and Sun, Boyang and Di Giammarino, Luca and Blum, Hermann and Pollefeys, Marc},
