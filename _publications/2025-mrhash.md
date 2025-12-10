@@ -6,7 +6,7 @@ permalink: /publication/2025-mrhash
 date: 2025-01-01
 venue: "ACM Transactions on Graphics (TOG)"
 authors: "Lorenzo De Rebotti, Emanuele Giacomini, Giorgio Grisetti, <b>Luca Di Giammarino</b>"
-teaser: /pub/derebotti2025mrhash.png
+teaser: pub/derebotti2025mrhash.gif
 arxiv: "https://arxiv.org/abs/2511.21459"
 github: "https://github.com/rvp-group/mrhash"
 paper: "https://dl.acm.org/doi/10.1145/3777909"
