@@ -5,7 +5,7 @@ permalink: /publication/2025-mad-ba
 # excerpt: ''
 date: 2025-01-07
 venue: "IEEE Robotics and Automation Letters (RA-L)"
-authors: "Krzysztof Ćwian, Luca Di Giammarino, Simone Ferrari, Thomas Ciarfuglia, Giorgio Grisetti, Piotr Skrzypczyński"
+authors: "Krzysztof Ćwian, <b>Luca Di Giammarino</b>, Simone Ferrari, Thomas Ciarfuglia, Giorgio Grisetti, Piotr Skrzypczyński"
 teaser: /pub/cwian2025madba.png
 arxiv: "https://arxiv.org/abs/2501.03972"
 github: "https://github.com/rvp-group/mad-ba"

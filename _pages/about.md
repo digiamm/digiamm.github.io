@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at Sapienza University of Rome, where I completed my PhD in January 2024 under the supervision of [Prof. Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti/home). My research focuses on advancing SLAM and 3D reconstruction algorithms combining model-based and learning techniques. I am particularly interested in integrating and extracting semantic cues while exploring active perception for better autonomous navigation. My work spans from higher mathematical theories to practical data structure design, aiming to improve how autonomous systems perceive and interact with their environment.
+I am an Assistant Professor at Sapienza University of Rome, where I also completed my PhD under the supervision of [Prof. Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti/home). My research focuses on SLAM, 3D reconstruction, and active perception, combining model-based optimization with learning-driven techniques to advance robust multimodal perception.
+
+I work on vision systems, developing methods for odometry, bundle adjustment, multimodal calibration, and active viewpoint selection. My recent efforts explore Gaussian scene representations, continuous-time SLAM, and efficient GPU-accelerated 3D mapping. Beyond academia, I am a cofounder of [Z-up](https://www.zedup.it/), a startup dedicated to bringing advanced robotic perception and simulation technologies into real-world applications.
 
 News
 ======

@@ -5,7 +5,7 @@ permalink: /publication/2025-splat-loam
 # excerpt: ''
 date: 2025-03-21
 venue: "IEEE/CVF International Conference on Computer Vision (ICCV)"
-authors: "Emanuele Giacomini, Luca Di Giammarino, Lorenzo De Rebotti, Giorgio Grisetti, Martin R. Oswald"
+authors: "Emanuele Giacomini, <b>Luca Di Giammarino</b>, Lorenzo De Rebotti, Giorgio Grisetti, Martin R. Oswald"
 teaser: /pub/giacomini2025splatloam.png
 arxiv: "https://arxiv.org/abs/2503.17491"
 github: "https://github.com/rvp-group/Splat-LOAM"
